@@ -1,2 +1,4 @@
 # Efecto-parallax
-parallax effect in css that looks in 3D
+- Efecto parallax en css que lo hace ver como si fuera en 3D
+:smile:
+
